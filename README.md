@@ -9,5 +9,12 @@ Features
 - Hosted entirely on AWS Lambda (no external server)  
 - Integrated using API Gateway HTTP API  
 
+Technologies Used
+- AWS Lambda (Node.js 22.x)
+- Amazon API Gateway (HTTP API)
+- HTML, CSS, JavaScript
+
+
+
 
 
